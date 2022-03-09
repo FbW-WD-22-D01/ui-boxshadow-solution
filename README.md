@@ -1,4 +1,4 @@
-# Spaß mit Box-Shadows
+# LÖSUNG für: Spaß mit Box-Shadows
 
 Mithilfe der CSS-Eigenschaft box-shadow lassen sich ansprechende optische Effekte erzeugen. Mit ihnen können wir die Illusion von Tiefe herstellen.
 
